@@ -3,6 +3,7 @@
 ### Descrição da sprint
 
 * vai ser muito legal esse desafio de falar sobre a sprint
+* um novo item
 
 
 # Sprint 1
