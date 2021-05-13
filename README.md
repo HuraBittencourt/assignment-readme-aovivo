@@ -9,3 +9,5 @@
 |tarefa|prazo|estimativa
 |-|-|-|
 |clonar repo|hoje|10min
+
+![alt text](./images/daniyudi.png "Daniel Obara")
